@@ -1,4 +1,4 @@
-# Image-Processing-Coures
+# Image-Processing-EE610
 ## Assignment-1
 Image editing GUI
 ## Assignment-2
